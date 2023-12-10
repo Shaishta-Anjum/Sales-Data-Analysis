@@ -41,23 +41,23 @@ jupyter notebook Sales_Data_Analysis.ipynb
 
 - **Age Group Analysis:**
   - Explore the age distribution of customers and identify prominent age groups using numpy and matplotlib.
-![Age Group]([image_url](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Age%20Group.png))
+![Age Group](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Age%20Group.png)
 
 - **Occupation Insights:**
   - Analyze the distribution of customers across different occupations using pandas and matplotlib.
-![Occupation]([image_url](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Occupation.png))
+![Occupation](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Occupation.png)
 
 ### Geographical Analysis
 
 - **Top 10 Ordering States:**
   - Identify the top 10 states with the highest number of orders using pandas and matplotlib.
-![States]([image_url](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/State.png))
+![States](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/State.png)
 
 ### Product Insights
 
 - **Most Selling Product Categories:**
   - Determine the most popular product categories using pandas and seaborn.
-![Product Category]([image_url](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Product%20Category.png))
+![Product Category](https://github.com/Shaishta-Anjum/Sales-Data-Analysis/blob/main/Highlights/Product%20Category.png)
 
 - **Top Selling Products:**
   - Identify the top 10 best-selling products using pandas and matplotlib.
