@@ -1,5 +1,4 @@
 # Sales-Data-Analysis
-# Sales Data Analysis with Python
 
 ## Overview
 
@@ -34,31 +33,35 @@ jupyter notebook Sales_Data_Analysis.ipynb
 
 3. Follow the instructions in the notebook to execute the analysis step by step.
 
-## Analysis Highlights
-
 ### Customer Demographics
 
 - **Gender Distribution:**
   - Visualize the distribution of customers based on gender using matplotlib and seaborn.
+  ![Image Caption](image_url)
 
 - **Age Group Analysis:**
   - Explore the age distribution of customers and identify prominent age groups using numpy and matplotlib.
+  ![Image Caption](image_url)
 
 - **Occupation Insights:**
   - Analyze the distribution of customers across different occupations using pandas and matplotlib.
+  ![Image Caption](image_url)
 
 ### Geographical Analysis
 
 - **Top 10 Ordering States:**
   - Identify the top 10 states with the highest number of orders using pandas and matplotlib.
+  ![Image Caption](image_url)
 
 ### Product Insights
 
 - **Most Selling Product Categories:**
   - Determine the most popular product categories using pandas and seaborn.
+  ![Image Caption](image_url)
 
 - **Top Selling Products:**
   - Identify the top 10 best-selling products using pandas and matplotlib.
+  ![Image Caption](image_url)
 
 ## Results
 
