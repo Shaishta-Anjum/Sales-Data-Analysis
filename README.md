@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Python code for performing Exploratory Data Analysis (EDA) on a company's sales dataset. The analysis focuses on extracting valuable insights related to customer demographics, popular products, and geographical sales patterns. The dataset used in this project provides information about customer transactions, including details about their gender, age group, occupation, and the products they purchased.
+This repository contains Python code for performing Exploratory Data Analysis (EDA) on a company's sales dataset. The analysis focuses on extracting valuable insights related to customer demographics, popular products, and geographical sales patterns. The dataset used in this project provides information about customer's gender, age group, occupation, and the products they purchased.
 
 ## Dataset
 
@@ -28,7 +28,7 @@ cd sales-data-analysis
 2. Run the Jupyter Notebook:
 
 ```bash
-jupyter notebook Sales_Data_Analysis.ipynb
+jupyter notebook Sale%Analysis.ipynb
 ```
 
 3. Follow the instructions in the notebook to execute the analysis step by step.
